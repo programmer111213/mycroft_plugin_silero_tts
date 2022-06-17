@@ -5,7 +5,7 @@
 ## Установка
 1. `git clone https://github.com/programmer111213/mycroft_plugin_silero_tts`
 2. `cd mycroft_plugin_silero_tts`
-3. `mycroft-pip instal .`
+3. `mycroft-pip install .`
 4. Добавить в `mycroft.conf` (`mycroft-config edit user`):
  
 ```json
